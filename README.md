@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-4F46E5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07090e" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/shreedhar-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=07090e" alt="LinkedIn" />
+  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/Shreedhar_G_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF_Document-0284C7?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=07090e" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://portfolio-2ov.pages.dev/assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF_Format-0284C7?style=flat-square&logo=googledrive&logoColor=white&labelColor=07090e" alt="Resume" />
+  <a href="https://linkedin.com/in/shreedhar-g" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=07090e" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:shreedharg405@gmail.com">
@@ -33,11 +33,11 @@
 
 ```yaml
 # ─── [ SYSTEM SPECIFICATIONS : SHREEDHAR G ] ──────────────────────────────────────────
-👤 IDENTITY       : Shreedhar G (Electronics & Communication Engineer // Developer)
+👤 IDENTITY       : Shreedhar G (Electronics & Communication Engineering Student & Developer)
 📍 COORDINATES    : Chennai, Tamil Nadu, India
-🏫 INSTITUTION    : Prince Shri Venkateshwara Padmavathy Engineering College (2023 — 2027)
+🏫 HIGHER ED      : Prince Shri Venkateshwara Padmavathy Engineering College (2023 — 2027)
 ⚡ SPECIALIZATION : Full-Stack Web Architecture • FastAPI Microservices • Embedded IoT Edge
-🚀 STATUS         : Open to Software Engineering Internships & Technical Collaboration
+🚀 STATUS         : Seeking opportunities to gain industry experience & build a successful career
 # ──────────────────────────────────────────────────────────────────────────────────────
 ```
 
@@ -46,86 +46,36 @@
     <img src="https://img.shields.io/badge/Current_Status-🟢_Building_%26_Deploying-1e1b4b?style=flat-square&logo=git&logoColor=818CF8" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._ECE-0f172a?style=flat-square&logo=academia&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Degree-B.E._ECE_(2023--2027)-0f172a?style=flat-square&logo=academia&logoColor=38BDF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Embedded_Systems-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_FastAPI_Backend-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
 </div>
 
 <br />
 
 ---
 
-### ⚡ Overview & Objective
+### ⚡ Profile Overview
 
-> Motivated and responsible **Electronics and Communication Engineering student & software developer**. A dedicated, adaptable, and quick learner who enjoys tackling engineering challenges, collaborative development, and continuous self-improvement. Focused on architecting responsive web applications, high-performance backends, and smart microcontroller-based IoT platforms.
+> Motivated and responsible **Electronics and Communication Engineering student** with a strong interest in learning and problem-solving. A dedicated, adaptable, and quick learner who enjoys new challenges, teamwork, and continuous improvement. Seeking opportunities to gain industry experience and build a successful career.
 
 <br />
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-#### 🐔 01 // Poultry Flock Pro & Weight Tracker
-> **Enterprise-Grade Farm Management & Live Flock Monitoring Platform**  
-> *Stack:* `React` • `TypeScript` • `Tailwind CSS` • `Cloudflare Workers` • `Cloud Database`
-
-* **Multi-Tier Administration:** Engineered full-stack operational tracking for farm-wise, batch-wise, and shed-wise daily flock management.
-* **Automated Computation:** Automated real-time bird bodyweight computations, flock uniformity curves, and shed performance analytics.
-* **Cloud Sync & Analytics:** Integrated automated cloud-based data synchronization and dynamic Excel report generation across multiple sheds.
-
-<p>
-  <a href="https://github.com/shreedharg405-sketch/poultry-weight-tracker" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
-#### 📚 02 // Student Management System (SMS)
-> **Academic Information Management & High-Speed REST Backend**  
-> *Stack:* `Python` • `FastAPI` • `MySQL` • `HTML5` • `CSS3` • `JavaScript` • `RESTful API`
-
-* **Centralized Data Hub:** Implemented a full-stack web application for student records, academic profiles, and administrative workflows.
-* **REST API Architecture:** Developed structured API endpoints in **Python FastAPI** supporting high-efficiency CRUD operations and request validation.
-* **Database Optimization:** Connected MySQL relational database with optimized indexing for structured data retrieval and integrity.
-
-<p>
-  <a href="https://github.com/shreedharg405-sketch/student-management-system" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
-#### 🏆 03 // Sovereign Awards Platform
-> **Responsive Global Digital Awards Portal for Crypto, Fintech & Payments**  
-> *Stack:* `React` • `JavaScript` • `HTML5` • `CSS3` • `Modular UI`
-
-* **Interactive Category Discovery:** Designed modular user interfaces showcasing nominee spotlights, event itineraries, and category details.
-* **Engagement Engine:** Incorporated nomination submission pipelines, sponsorship portals, and event ticket booking interfaces.
-* **Universal Accessibility:** Optimized mobile-first responsive layouts with fluid transitions across all viewport sizes.
-
-<p>
-  <a href="https://github.com/shreedharg405-sketch/sovereign-awards-website" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
-#### ⚡ 04 // Hardware & Embedded IoT Systems
+### 🎓 Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h4>🌡️ Smart Poultry Climate Control System</h4>
-  <p><b>Hardware:</b> <code>Arduino Uno</code> • <code>DHT11 Sensor</code> • <code>Relay Actuators</code> • <code>Embedded C</code></p>
-  <p>Microcontroller-driven environmental management system monitoring ambient shed temperature and humidity, automatically triggering heating elements and ventilation exhaust fans via multi-channel relays.</p>
+  <h4>Prince Shri Venkateshwara Padmavathy Engineering College</h4>
+  <p><b>Degree:</b> B.E. Electronics and Communication Engineering<br />
+  <b>Timeline:</b> <code>2023 – 2027</code> &nbsp;|&nbsp; <i>Chennai, Tamil Nadu</i></p>
 </td>
 <td width="50%" valign="top">
-  <h4>💡 Smart Lume (Intelligent Street Light)</h4>
-  <p><b>Hardware:</b> <code>ESP32</code> • <code>LDR Sensor</code> • <code>PIR Motion Sensor</code> • <code>Solar Array</code></p>
-  <p>Autonomous solar-powered street lighting infrastructure using dual optical sensing (LDR ambient lux tracking + PIR human presence detection) to dynamically throttle LED power and maximize battery reserve.</p>
+  <h4>Sri Saraswathi Vidyalaya Matric Hr. Sec. School</h4>
+  <p><b>Qualification:</b> Higher Secondary (HSC - 12th)<br />
+  <b>Timeline:</b> <code>2022 – 2023</code> &nbsp;|&nbsp; <i>Krishnagiri, Tamil Nadu</i></p>
 </td>
 </tr>
 </table>
@@ -134,60 +84,16 @@
 
 ---
 
-### 🧠 Technical Arsenal & Skill Matrix
-
-<div align="center">
-
-<p>
-  <sub><b>PROGRAMMING LANGUAGES</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark" height="36" alt="Programming Languages" />
-  </a>
-</p>
-
-<p>
-  <sub><b>FRONTEND, BACKEND &amp; CLOUD</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,fastapi,cloudflare,vercel&theme=dark" height="36" alt="Frontend and Cloud" />
-  </a>
-</p>
-
-<p>
-  <sub><b>DATABASES, HARDWARE &amp; TOOLS</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,arduino,linux&theme=dark" height="36" alt="Databases, Tools and Hardware" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Design-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818CF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-0f172a?style=flat-square&logo=leetcode&logoColor=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-FastAPI-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Embedded_C-Microcontrollers-0f172a?style=flat-square&logo=c&logoColor=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Serverless-Cloudflare_Workers-1e1b4b?style=flat-square&logo=cloudflare&logoColor=F59E0B" />
-</p>
-
-</div>
-
-<br />
-
----
-
-### 💼 Industry Internship & Practical Training
+### 💼 Internship Experience
 
 <table>
 <tr>
 <td>
   <h3>Adventure Technology Solutions Pvt Ltd.</h3>
-  <p><b>Embedded Systems Trainee / Intern</b> &nbsp;|&nbsp; <i>03 June 2025 – 03 July 2025</i></p>
+  <p><b>Embedded Systems Trainee</b> &nbsp;|&nbsp; <i>03/06/2025 – 03/07/2025</i></p>
   <ul>
-    <li>Completed intensive practical training in <b>Embedded Systems</b>, mastering microcontroller pinouts, system registers, and hardware architecture.</li>
-    <li>Engineered custom firmware in <b>Embedded C</b> for sensor polling, actuator triggers, and circuit communication buses.</li>
-    <li>Acquired hands-on debugging skills in electronic component integration, timing loops, and real-time edge processing.</li>
+    <li>Completed practical training in <b>Embedded Systems</b>, gaining knowledge of microcontrollers, embedded architecture, fundamental hardware concepts, and embedded C programming.</li>
+    <li>Acquired hands-on experience in hardware interfacing, system-level programming, real-time applications, circuit implementation, and electronic component integration through practical exercises.</li>
   </ul>
 </td>
 </tr>
@@ -197,34 +103,149 @@
 
 ---
 
-### 📜 Verified Credentials & Certifications
+### 🚀 Projects
+
+#### 🐔 01 // Poultry Flock Pro
+> **Full-Stack Poultry Farm Management Platform**  
+> *Stack:* `React` • `TypeScript` • `Tailwind CSS` • `Cloudflare Workers` • `Cloud Database`
+
+* **Flock Administration:** Engineered a full-stack poultry farm management platform with farm-wise, batch-wise, and shed-wise operations for efficient flock administration and daily monitoring.
+* **Automated Calculations:** Automated bird bodyweight calculations, flock uniformity analysis, and shed-wise performance tracking for improved farm productivity and accurate weight assessment.
+* **Cloud Sync & Reporting:** Integrated cloud-based data synchronization and Excel report generation for accurate weight records and comprehensive farm performance analysis across multiple sheds.
+
+<p>
+  <a href="https://github.com/shreedharg405-sketch/poultry-weight-tracker" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
+  </a>
+</p>
+
+---
+
+#### 📚 02 // Student Management System
+> **Academic Records & Information Management Application**  
+> *Stack:* `HTML` • `CSS` • `JavaScript` • `Python` • `FastAPI` • `MySQL` • `REST API`
+
+* **Information Management:** Implemented a web-based student information management application for organizing academic records, maintaining structured student profiles, and simplifying administrative data handling.
+* **FastAPI Backend:** Established RESTful API endpoints using Python FastAPI to manage student information, perform CRUD operations, and ensure seamless frontend-backend communication.
+* **Relational Storage:** Connected MySQL database services for secure data storage, retrieval, record organization, and efficient information management through structured queries and database operations.
+
+<p>
+  <a href="https://github.com/shreedharg405-sketch/student-management-system" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
+  </a>
+</p>
+
+---
+
+#### 🏆 03 // Sovereign Awards
+> **Responsive Global Digital Awards Platform**  
+> *Stack:* `React` • `JavaScript` • `HTML` • `CSS`
+
+* **Platform Interface:** Crafted a responsive global awards platform featuring award categories, nominee recognition, event highlights, and interactive user interfaces for seamless navigation.
+* **Event Workflows:** Incorporated nomination workflows, ticket booking functionality, and sponsorship information to simplify event participation and improve overall visitor engagement.
+* **Frontend Usability:** Enhanced frontend usability through responsive layouts, intuitive navigation, interactive components, and consistent visual presentation across multiple screen sizes.
+
+<p>
+  <a href="https://github.com/shreedharg405-sketch/sovereign-awards-website" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
+  </a>
+</p>
+
+<br />
+
+---
+
+### 🧠 Skills
+
+<div align="center">
+
+<p>
+  <sub><b>LANGUAGES</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js&theme=dark" height="36" alt="Languages" />
+  </a>
+</p>
+
+<p>
+  <sub><b>FRONTEND &amp; CLOUD DEPLOYMENT</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,cloudflare,vercel&theme=dark" height="36" alt="Frontend and Cloud" />
+  </a>
+</p>
+
+<p>
+  <sub><b>BACKEND, DATABASE &amp; DEV TOOLS</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,mysql,vscode,git,github,postman&theme=dark" height="36" alt="Backend, Database and Tools" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Core_Concept-OOP_(Object--Oriented_Programming)-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818CF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Core_Concept-DSA_(Data_Structures_%26_Algorithms)-0f172a?style=flat-square&logo=leetcode&logoColor=38BDF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend-FastAPI_%26_REST_API-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tools-Antigravity_%26_XAMPP-0f172a?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud-Render-1e1b4b?style=flat-square&logo=render&logoColor=F59E0B" />
+</p>
+
+</div>
+
+<br />
+
+---
+
+### 📜 Certifications & Workshops
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <b>🎓 Diploma in Full Stack Development</b><br />
-  <sub><i>I Shine Info Tech (Sep 2025 – Mar 2026)</i></sub><br />
-  Comprehensive training in client-server architecture, database modeling, and scalable modern web frameworks.
+  <b>🎓 Full Stack Development</b><br />
+  <sub>Comprehensive practical training in full-stack architecture &amp; web engineering</sub>
 </td>
 <td width="50%" valign="top">
-  <b>⚡ LEAP Certification (LPBO1, LPBO2 &amp; LP202)</b><br />
-  <sub><i>Arduino Bootcamp &amp; Practicum for Innovative Engineering (2024)</i></sub><br />
-  Practical hardware interfacing, microcontroller circuits, and prototype engineering.
+  <b>⚡ LEAP Certificate</b><br />
+  <sub>Practicum for Innovative Engineering &amp; technical fundamentals</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <b>🛡️ QNX &amp; Reverse Engineering Certification</b><br />
-  <sub><i>Hardware &amp; System Analysis (2024)</i></sub><br />
-  Hardware teardown, memory architecture inspection, and system-level firmware debugging.
+  <b>🛡️ QNX Certificate</b><br />
+  <sub>Embedded operating systems &amp; hardware architecture analysis</sub>
 </td>
 <td width="50%" valign="top">
-  <b>🔬 Machine Learning &amp; Ethical Hacking</b><br />
-  <sub><i>TECHKRITI'25, IIT Kanpur (2025)</i></sub><br />
-  Hands-on technical workshops covering machine intelligence fundamentals and offensive cybersecurity principles.
+  <b>🤖 Arduino Bootcamp Certification</b><br />
+  <sub>Microcontroller programming, sensor interfacing &amp; embedded prototyping</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <b>🔍 Reverse Engineering Bootcamp</b><br />
+  <sub>System-level analysis, architecture inspection &amp; hardware debugging</sub>
+</td>
+<td width="50%" valign="top">
+  <b>🔬 Machine Learning &amp; Ethical Hacking Workshop</b><br />
+  <sub>Core machine learning workflows &amp; cybersecurity fundamentals</sub>
 </td>
 </tr>
 </table>
+
+<br />
+
+---
+
+### 🎯 Areas of Interest
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Interest-Software_Engineering-1e1b4b?style=flat-square&logo=codeforces&logoColor=818CF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Interest-Application_Development-0f172a?style=flat-square&logo=react&logoColor=38BDF8" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Interest-Emerging_Technologies-1e1b4b?style=flat-square&logo=probot&logoColor=818CF8" />
+</div>
 
 <br />
 
@@ -254,9 +275,9 @@
 
 ---
 
-### 📡 Transmission Channels & Social Connect
+### 📡 Contact & Social Connect
 
-<p align="center"><i>Whether you want to discuss full-stack cloud applications, embedded systems, or exciting career opportunities — feel free to reach out!</i></p>
+<p align="center"><i>Seeking opportunities to gain industry experience and build a successful career. Feel free to connect!</i></p>
 
 <table align="center" border="0">
 <tr>
@@ -267,7 +288,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br />
-  <sub><b>Professional Network</b></sub>
+  <sub><b>linkedin.com/in/shreedhar-g</b></sub>
 </td>
 <td align="center" width="200" style="padding: 12px;">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
@@ -276,7 +297,14 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <br />
-  <sub><b>Interactive Showcase</b></sub>
+  <sub><b>portfolio-2ov.pages.dev</b></sub>
+</td>
+<td align="center" width="200" style="padding: 12px;">
+  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/Shreedhar_G_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-0284C7?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  <br />
+  <sub><b>Shreedhar_G_Resume.pdf</b></sub>
 </td>
 <td align="center" width="200" style="padding: 12px;">
   <a href="mailto:shreedharg405@gmail.com">
