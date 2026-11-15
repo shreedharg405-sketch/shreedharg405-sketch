@@ -30,10 +30,6 @@
   <a href="mailto:shreedharg405@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D9488?style=flat-square&logo=gmail&logoColor=white&labelColor=070d18" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://github.com/shreedharg405-sketch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Dev-1E293B?style=flat-square&logo=github&logoColor=38BDF8&labelColor=070d18" alt="GitHub" />
-  </a>
 </p>
 
 <!-- Telemetry Views Counter -->
@@ -48,7 +44,6 @@
 🏫 INSTITUTION    : Prince Shri Venkateshwara Padmavathy Engineering College (2023 — 2027)
 ⚡ SPECIALIZATION : Full-Stack Web Architecture • FastAPI Microservices • Embedded IoT Edge
 🚀 STATUS         : Open to Software Engineering Internships & Technical Collaboration
-💡 CORE MANTRA    : "Bridging physical microcontroller circuits with scalable cloud systems"
 # ──────────────────────────────────────────────────────────────────────────────────────
 ```
 
@@ -87,10 +82,6 @@
 <p>
   <a href="https://github.com/shreedharg405-sketch/poultry-weight-tracker" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-082f49?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub Repo" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-2ov.pages.dev/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/Demo_Showcase-🚀_Live_Portfolio-022c22?style=flat-square&logo=googlechrome&logoColor=10B981" alt="Demo" />
   </a>
 </p>
 
@@ -263,16 +254,6 @@
 
 <div align="center">
   <img src="assets/quote.svg" width="560" alt="Developer Philosophy Quote" />
-</div>
-
-<br />
-
----
-
-### ⚡ Contribution Flow
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shreedharg405-sketch/shreedharg405-sketch/output/github-contribution-grid-snake-dark.svg" width="640" alt="Contribution Grid Snake" />
 </div>
 
 <br />
