@@ -9,36 +9,36 @@
 
 <p align="center">
   <a href="https://github.com/shreedharg405-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=660&height=45&lines=console.log(%22Hi%2C%20I'm%20Shreedhar%20G%20%F0%9F%91%8B%22)%3B;Full-Stack%20%26%20Cloudflare%20Workers%20Developer%20%F0%9F%92%BB;Microcontroller%20Architect%20%26%20Embedded%20IoT%20Builder%20%F0%9F%A4%96;FastAPI%20REST%20APIs%20%26%20MySQL%20Engineering%20%E2%9A%A1;B.E.%20Electronics%20%26%20Communication%20Engineering%20%F0%9F%8E%93" width="100%" style="max-width: 660px;" alt="Interactive Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=620&height=40&lines=console.log(%22Hi%2C%20I'm%20Shreedhar%20G%20%F0%9F%91%8B%22)%3B;Full-Stack%20%26%20Cloudflare%20Workers%20Developer%20%F0%9F%92%BB;Microcontroller%20Architect%20%26%20Embedded%20IoT%20Builder%20%F0%9F%A4%96;FastAPI%20REST%20APIs%20%26%20MySQL%20Engineering%20%E2%9A%A1;B.E.%20Electronics%20%26%20Communication%20Engineering%20%F0%9F%8E%93" width="620" height="40" alt="Interactive Typing Banner" />
   </a>
 </p>
 
 <!-- Quick Navigation Pill Badges -->
 <p align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=070d18" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-06B6D4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=070d18" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/shreedhar-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070d18" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=070d18" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://portfolio-2ov.pages.dev/assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF_Format-10B981?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=070d18" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-PDF_Format-10B981?style=flat-square&logo=googledrive&logoColor=white&labelColor=070d18" alt="Resume" />
   </a>
   &nbsp;
   <a href="mailto:shreedharg405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D9488?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070d18" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D9488?style=flat-square&logo=gmail&logoColor=white&labelColor=070d18" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/shreedharg405-sketch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Dev-1E293B?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=070d18" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Dev-1E293B?style=flat-square&logo=github&logoColor=38BDF8&labelColor=070d18" alt="GitHub" />
   </a>
 </p>
 
 <!-- Telemetry Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=06b6d4&style=flat-square" alt="Profile Views" />
 </p>
 
 ```yaml
@@ -151,50 +151,41 @@
 
 ### 🧠 Technical Arsenal & Skill Matrix
 
-```text
-┌── [ CORE PROGRAMMING LANGUAGES ] ──────────────────────────────────────────┐
-│  Java  •  Python  •  C  •  C++  •  JavaScript  •  TypeScript               │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark" width="100%" style="max-width: 440px;" alt="Programming Languages" />
-  </a>
-</p>
-
-```text
-┌── [ FRONTEND, CLOUD & WEB ARCHITECTURE ] ──────────────────────────────────┐
-│  React  •  Tailwind CSS  •  HTML5  •  CSS3  •  FastAPI  •  Cloudflare      │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,fastapi,cloudflare,vercel&theme=dark" width="100%" style="max-width: 440px;" alt="Frontend and Cloud" />
-  </a>
-</p>
-
-```text
-┌── [ DATABASES, HARDWARE & DEV TOOLS ] ─────────────────────────────────────┐
-│  MySQL  •  VS Code  •  Git  •  GitHub  •  Postman  •  Arduino  •  Linux    │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,arduino,linux&theme=dark" width="100%" style="max-width: 440px;" alt="Databases, Tools and Hardware" />
-  </a>
-</p>
-
-<!-- Concept Capsules -->
 <div align="center">
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Design-064e3b?style=for-the-badge&logo=cplusplus&logoColor=34D399" />
+
+<p>
+  <sub><b>PROGRAMMING LANGUAGES</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark" height="36" alt="Programming Languages" />
+  </a>
+</p>
+
+<p>
+  <sub><b>FRONTEND, BACKEND &amp; CLOUD</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,fastapi,cloudflare,vercel&theme=dark" height="36" alt="Frontend and Cloud" />
+  </a>
+</p>
+
+<p>
+  <sub><b>DATABASES, HARDWARE &amp; TOOLS</b></sub><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,arduino,linux&theme=dark" height="36" alt="Databases, Tools and Hardware" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Design-064e3b?style=flat-square&logo=cplusplus&logoColor=34D399" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-082f49?style=for-the-badge&logo=leetcode&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-082f49?style=flat-square&logo=leetcode&logoColor=38BDF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-FastAPI_Endpoints-042f2e?style=for-the-badge&logo=fastapi&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/REST_APIs-FastAPI-042f2e?style=flat-square&logo=fastapi&logoColor=2DD4BF" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Embedded_C-Hardware_Interfacing-1e1b4b?style=for-the-badge&logo=c&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Embedded_C-Microcontrollers-1e1b4b?style=flat-square&logo=c&logoColor=818CF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Serverless-Cloudflare_Workers-431407?style=for-the-badge&logo=cloudflare&logoColor=FB923C" />
+  <img src="https://img.shields.io/badge/Serverless-Cloudflare_Workers-431407?style=flat-square&logo=cloudflare&logoColor=FB923C" />
+</p>
+
 </div>
 
 <br />
@@ -257,21 +248,21 @@
 ### 📊 GitHub Telemetry & Activity Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shreedharg405-sketch&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&icon_color=10b981&border_color=1e293b&border_radius=10" width="100%" style="max-width: 440px;" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shreedharg405-sketch&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&icon_color=10b981&border_color=1e293b&border_radius=8" height="145" alt="GitHub Metrics" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreedharg405-sketch&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&border_color=1e293b&border_radius=10" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreedharg405-sketch&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&border_color=1e293b&border_radius=8" height="145" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedharg405-sketch&background=0d1117&border=1e293b&stroke=1e293b&ring=22d3ee&fire=10b981&currStreakNum=f1f5f9&sideNums=f1f5f9&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" width="100%" style="max-width: 480px;" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedharg405-sketch&background=0d1117&border=1e293b&stroke=1e293b&ring=22d3ee&fire=10b981&currStreakNum=f1f5f9&sideNums=f1f5f9&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" height="140" alt="Commit Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 760px;" alt="Developer Philosophy Quote" />
+  <img src="assets/quote.svg" width="560" alt="Developer Philosophy Quote" />
 </div>
 
 <br />
@@ -281,7 +272,7 @@
 ### ⚡ Contribution Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreedharg405-sketch/shreedharg405-sketch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
+  <img src="https://raw.githubusercontent.com/shreedharg405-sketch/shreedharg405-sketch/output/github-contribution-grid-snake-dark.svg" width="640" alt="Contribution Grid Snake" />
 </div>
 
 <br />
@@ -294,27 +285,27 @@
 
 <table align="center" border="0">
 <tr>
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="200" style="padding: 12px;">
   <a href="https://www.linkedin.com/in/shreedhar-g/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="200" style="padding: 12px;">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Portfolio" />
     <br /><br />
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <br />
   <sub><b>Interactive Showcase</b></sub>
 </td>
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="200" style="padding: 12px;">
   <a href="mailto:shreedharg405@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="56" height="56" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
     <br /><br />
     <img src="https://img.shields.io/badge/Email-Direct%20Ping-0D9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
