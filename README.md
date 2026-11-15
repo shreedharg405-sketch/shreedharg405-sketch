@@ -1,6 +1,6 @@
 <!-- ============================================================== -->
-<!-- 🚀 SHREEDHAR G // CYBER-ENGINEERING PROFILE README           -->
-<!-- Theme: Electric Cyber-Cyan & Emerald Mint // Futuristic Dark   -->
+<!-- 🚀 SHREEDHAR G // SOFTWARE & EMBEDDED SYSTEMS PORTFOLIO      -->
+<!-- Theme: Minimalist Midnight Aurora & Royal Indigo             -->
 <!-- ============================================================== -->
 
 <div align="center">
@@ -10,25 +10,25 @@
 <!-- Quick Navigation Pill Badges -->
 <p align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-06B6D4?style=flat-square&logo=googlechrome&logoColor=white&labelColor=070d18" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-4F46E5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07090e" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/shreedhar-g" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=070d18" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=07090e" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://portfolio-2ov.pages.dev/assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF_Format-10B981?style=flat-square&logo=googledrive&logoColor=white&labelColor=070d18" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-PDF_Format-0284C7?style=flat-square&logo=googledrive&logoColor=white&labelColor=07090e" alt="Resume" />
   </a>
   &nbsp;
   <a href="mailto:shreedharg405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D9488?style=flat-square&logo=gmail&logoColor=white&labelColor=070d18" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-6366F1?style=flat-square&logo=gmail&logoColor=white&labelColor=07090e" alt="Email" />
   </a>
 </p>
 
 <!-- Telemetry Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=06b6d4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
 ```yaml
@@ -43,12 +43,12 @@
 
 <div align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Current_Status-🟢_Building_%26_Deploying-022c22?style=flat-square&logo=git&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Current_Status-🟢_Building_%26_Deploying-1e1b4b?style=flat-square&logo=git&logoColor=818CF8" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._ECE-082f49?style=flat-square&logo=academia&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Degree-B.E._ECE-0f172a?style=flat-square&logo=academia&logoColor=38BDF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Embedded_Systems-042f2e?style=flat-square&logo=fastapi&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Embedded_Systems-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
 </div>
 
 <br />
@@ -75,7 +75,7 @@
 
 <p>
   <a href="https://github.com/shreedharg405-sketch/poultry-weight-tracker" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-082f49?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub Repo" />
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p>
   <a href="https://github.com/shreedharg405-sketch/student-management-system" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-082f49?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub Repo" />
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 
 <p>
   <a href="https://github.com/shreedharg405-sketch/sovereign-awards-website" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-082f49?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub Repo" />
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
   </a>
 </p>
 
@@ -160,15 +160,15 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Design-064e3b?style=flat-square&logo=cplusplus&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented_Design-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818CF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-082f49?style=flat-square&logo=leetcode&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-0f172a?style=flat-square&logo=leetcode&logoColor=38BDF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-FastAPI-042f2e?style=flat-square&logo=fastapi&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/REST_APIs-FastAPI-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Embedded_C-Microcontrollers-1e1b4b?style=flat-square&logo=c&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Embedded_C-Microcontrollers-0f172a?style=flat-square&logo=c&logoColor=38BDF8" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Serverless-Cloudflare_Workers-431407?style=flat-square&logo=cloudflare&logoColor=FB923C" />
+  <img src="https://img.shields.io/badge/Serverless-Cloudflare_Workers-1e1b4b?style=flat-square&logo=cloudflare&logoColor=F59E0B" />
 </p>
 
 </div>
@@ -233,15 +233,15 @@
 ### 📊 GitHub Telemetry & Activity Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shreedharg405-sketch&show_icons=true&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&icon_color=10b981&border_color=1e293b&border_radius=8" height="145" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shreedharg405-sketch&show_icons=true&bg_color=0b0f19&title_color=818cf8&text_color=e2e8f0&icon_color=38bdf8&border_color=1e293b&border_radius=8" height="145" alt="GitHub Metrics" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreedharg405-sketch&layout=compact&bg_color=0d1117&title_color=22d3ee&text_color=f1f5f9&border_color=1e293b&border_radius=8" height="145" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreedharg405-sketch&layout=compact&bg_color=0b0f19&title_color=818cf8&text_color=e2e8f0&border_color=1e293b&border_radius=8" height="145" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedharg405-sketch&background=0d1117&border=1e293b&stroke=1e293b&ring=22d3ee&fire=10b981&currStreakNum=f1f5f9&sideNums=f1f5f9&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" height="140" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedharg405-sketch&background=0b0f19&border=1e293b&stroke=1e293b&ring=6366f1&fire=38bdf8&currStreakNum=f1f5f9&sideNums=f1f5f9&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b" height="140" alt="Commit Streak" />
 </div>
 
 <br />
@@ -273,7 +273,7 @@
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Portfolio" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <br />
   <sub><b>Interactive Showcase</b></sub>
@@ -282,7 +282,7 @@
   <a href="mailto:shreedharg405@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Email-Direct%20Ping-0D9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Direct%20Ping-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br />
   <sub><b>shreedharg405@gmail.com</b></sub>

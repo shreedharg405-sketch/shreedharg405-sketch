@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 85" width="100%" height="85">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 75" width="100%" height="75">
   <defs>
-    <linearGradient id="footer-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0284c7" stop-opacity="0" />
-      <stop offset="25%" stop-color="#06b6d4" stop-opacity="0.9" />
-      <stop offset="50%" stop-color="#34d399" stop-opacity="1" />
-      <stop offset="75%" stop-color="#06b6d4" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#0284c7" stop-opacity="0" />
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0" />
+      <stop offset="30%" stop-color="#6366f1" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0" />
     </linearGradient>
-    <filter id="glow-mint">
-      <feGaussianBlur stdDeviation="3.5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Glowing Cyan-Emerald Line -->
-  <line x1="40" y1="22" x2="880" y2="22" stroke="url(#footer-cyan-grad)" stroke-width="2.2" filter="url(#glow-mint)" />
+  <!-- Clean Divider Line -->
+  <line x1="60" y1="20" x2="860" y2="20" stroke="url(#footer-line)" stroke-width="1.5" />
 
-  <!-- Center Diamond & Circuit Nodes -->
-  <polygon points="460,16 467,22 460,28 453,22" fill="#34d399" filter="url(#glow-mint)" />
-  <circle cx="438" cy="22" r="2.5" fill="#00f2fe" />
-  <circle cx="482" cy="22" r="2.5" fill="#00f2fe" />
+  <!-- Center Diamond -->
+  <polygon points="460,16 464,20 460,24 456,20" fill="#38bdf8" />
 
   <!-- Footer Text -->
-  <text x="460" y="56" text-anchor="middle" font-family="'JetBrains Mono', -apple-system, monospace" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="2">
-    DESIGNED &amp; ARCHITECTED BY <tspan fill="#00f2fe">SHREEDHAR G</tspan> &#8226; <tspan fill="#34d399">&#169; 2026</tspan>
+  <text x="460" y="52" text-anchor="middle" font-family="'JetBrains Mono', -apple-system, monospace" font-size="11.5" font-weight="500" fill="#64748b" letter-spacing="1.8">
+    DESIGNED &amp; ARCHITECTED BY <tspan fill="#e2e8f0" font-weight="600">SHREEDHAR G</tspan> &#8226; <tspan fill="#818cf8">&#169; 2026</tspan>
   </text>
 </svg>
