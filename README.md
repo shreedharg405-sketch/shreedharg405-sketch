@@ -7,12 +7,6 @@
   <img src="assets/header.svg" width="100%" alt="Shreedhar G Header" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/shreedharg405-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=620&height=40&lines=console.log(%22Hi%2C%20I'm%20Shreedhar%20G%20%F0%9F%91%8B%22)%3B;Full-Stack%20%26%20Cloudflare%20Workers%20Developer%20%F0%9F%92%BB;Microcontroller%20Architect%20%26%20Embedded%20IoT%20Builder%20%F0%9F%A4%96;FastAPI%20REST%20APIs%20%26%20MySQL%20Engineering%20%E2%9A%A1;B.E.%20Electronics%20%26%20Communication%20Engineering%20%F0%9F%8E%93" width="620" height="40" alt="Interactive Typing Banner" />
-  </a>
-</p>
-
 <!-- Quick Navigation Pill Badges -->
 <p align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
