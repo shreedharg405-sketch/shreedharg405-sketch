@@ -63,7 +63,7 @@
 
 ### ⚡ Overview & Objective
 
-> Motivated and responsible **Electronics and Communication Engineering student & software developer** based in Chennai, India. A dedicated, adaptable, and quick learner who enjoys tackling engineering challenges, collaborative development, and continuous self-improvement. Focused on architecting responsive web applications, high-performance backends, and smart microcontroller-based IoT platforms.
+> Motivated and responsible **Electronics and Communication Engineering student & software developer**. A dedicated, adaptable, and quick learner who enjoys tackling engineering challenges, collaborative development, and continuous self-improvement. Focused on architecting responsive web applications, high-performance backends, and smart microcontroller-based IoT platforms.
 
 <br />
 
