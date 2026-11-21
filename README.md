@@ -121,7 +121,23 @@
 
 ---
 
-#### 📚 02 // Student Management System
+#### 📜 02 // Bulk Certificate Generator API (CertiFlow)
+> **Asynchronous Bulk Certificate Generator & High-Concurrency Worker Engine**  
+> *Stack:* `TypeScript` • `Node.js` • `Express` • `Puppeteer` • `BullMQ` • `SQLite` • `Docker`
+
+* **High-Throughput Ingestion & Workers:** Engineered an asynchronous batch-processing worker engine using Express, BullMQ, and Puppeteer to ingest thousands of CSV/Excel recipient records and render high-resolution print-ready PDFs and PNGs.
+* **Cryptographic QR Code Verification:** Embedded authentic, verifiable dynamic QR codes pointing to real-time verification endpoints (`/verify/:certId`) for tamper-proof certificate validation.
+* **Streaming ZIP Packaging:** Built memory-isolated worker pipelines with configurable concurrency limits and streaming multi-file `.zip` archive packaging.
+
+<p>
+  <a href="https://github.com/shreedharg405-sketch/bulk-certificate-generator-api" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-💻_GitHub_Repo-1e1b4b?style=flat-square&logo=github&logoColor=818CF8" alt="GitHub Repo" />
+  </a>
+</p>
+
+---
+
+#### 📚 03 // Student Management System
 > **Academic Records & Information Management Application**  
 > *Stack:* `HTML` • `CSS` • `JavaScript` • `Python` • `FastAPI` • `MySQL` • `REST API`
 
@@ -137,7 +153,7 @@
 
 ---
 
-#### 🏆 03 // Sovereign Awards
+#### 🏆 04 // Sovereign Awards
 > **Responsive Global Digital Awards Platform**  
 > *Stack:* `React` • `JavaScript` • `HTML` • `CSS`
 
