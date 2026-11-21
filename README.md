@@ -3,6 +3,10 @@
 <!-- Theme: Minimalist Midnight Aurora & Royal Indigo             -->
 <!-- ============================================================== -->
 
+<div align="center">
+  <img src="assets/system-specifications.svg" width="100%" alt="System Specifications" />
+</div>
+
 <!-- Quick Navigation Pill Badges -->
 <p align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
@@ -26,20 +30,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
-
-<div align="center">
-  <img src="assets/system-specifications.svg" width="100%" alt="System Specifications" />
-</div>
-
-<div align="center">
-  <a href="https://portfolio-2ov.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Current_Status-🟢_Building_%26_Deploying-1e1b4b?style=flat-square&logo=git&logoColor=818CF8" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._ECE_(2023--2027)-0f172a?style=flat-square&logo=academia&logoColor=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_FastAPI_Backend-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
-</div>
 
 <br />
 
