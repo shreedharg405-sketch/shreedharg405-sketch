@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" width="100%">
+  <defs>
+    <!-- Card Background Gradient -->
+    <linearGradient id="spec-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0c111d" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Top Border Line Accent -->
+    <linearGradient id="top-line-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .terminal-title {
+      font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #64748b;
+      letter-spacing: 1.2px;
+    }
+    .label-blue {
+      font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 12.5px;
+      font-weight: 700;
+      fill: #38bdf8;
+      letter-spacing: 0.8px;
+    }
+    .val-white {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+      font-size: 13.5px;
+      font-weight: 500;
+      fill: #f8fafc;
+      letter-spacing: 0.2px;
+    }
+    .val-sub {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+      font-size: 12.5px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .val-accent {
+      font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #818cf8;
+    }
+    .dot-bullet {
+      fill: #64748b;
+      font-size: 14px;
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="920" height="230" rx="10" fill="url(#spec-bg)" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Top Accent Glowing Line -->
+  <line x1="30" y1="1" x2="890" y2="1" stroke="url(#top-line-accent)" stroke-width="2" />
+
+  <!-- Terminal Window Dots -->
+  <circle cx="28" cy="22" r="4.5" fill="#ef4444" opacity="0.85" />
+  <circle cx="42" cy="22" r="4.5" fill="#f59e0b" opacity="0.85" />
+  <circle cx="56" cy="22" r="4.5" fill="#10b981" opacity="0.85" />
+
+  <!-- Terminal Title -->
+  <text x="74" y="26" class="terminal-title">// SYSTEM SPECIFICATIONS : SHREEDHAR G</text>
+
+  <!-- Divider Line -->
+  <line x1="16" y1="38" x2="904" y2="38" stroke="#1e293b" stroke-width="0.8" stroke-dasharray="4 4" opacity="0.6" />
+
+  <!-- Row 1: Name -->
+  <g transform="translate(0, 68)">
+    <text x="32" y="0" class="label-blue">NAME :</text>
+    <text x="180" y="0" class="val-white">Shreedhar G <tspan class="val-sub">(Electronics &amp; Communication Engineering Student &amp; Developer)</tspan></text>
+  </g>
+
+  <!-- Row 2: Coordinates -->
+  <g transform="translate(0, 104)">
+    <text x="32" y="0" class="label-blue">COORDINATES :</text>
+    <text x="180" y="0" class="val-white">Chennai, Tamil Nadu, India</text>
+  </g>
+
+  <!-- Row 3: Higher Ed -->
+  <g transform="translate(0, 140)">
+    <text x="32" y="0" class="label-blue">HIGHER ED :</text>
+    <text x="180" y="0" class="val-white">Prince Shri Venkateshwara Padmavathy Engineering College <tspan class="val-accent">(2023 &#8212; 2027)</tspan></text>
+  </g>
+
+  <!-- Row 4: Specialization -->
+  <g transform="translate(0, 176)">
+    <text x="32" y="0" class="label-blue">SPECIALIZATION :</text>
+    <text x="180" y="0" class="val-white">Full-Stack Web Architecture <tspan class="dot-bullet">&#8226;</tspan> FastAPI Microservices <tspan class="dot-bullet">&#8226;</tspan> Embedded IoT Edge</text>
+  </g>
+
+  <!-- Row 5: Status -->
+  <g transform="translate(0, 212)">
+    <text x="32" y="0" class="label-blue">STATUS :</text>
+    <text x="180" y="0" class="val-white">Seeking opportunities to gain industry experience &amp; build a successful career</text>
+  </g>
+</svg>
