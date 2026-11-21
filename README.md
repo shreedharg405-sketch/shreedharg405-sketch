@@ -173,42 +173,60 @@
 
 ### 🧠 Skills
 
-<div align="center">
-
-<p>
-  <sub><b>LANGUAGES</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js&theme=dark" height="36" alt="Languages" />
-  </a>
-</p>
-
-<p>
-  <sub><b>FRONTEND &amp; CLOUD DEPLOYMENT</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,cloudflare,vercel&theme=dark" height="36" alt="Frontend and Cloud" />
-  </a>
-</p>
-
-<p>
-  <sub><b>BACKEND, DATABASE &amp; DEV TOOLS</b></sub><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql,vscode,git,github,postman&theme=dark" height="36" alt="Backend, Database and Tools" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Core_Concept-OOP_(Object--Oriented_Programming)-1e1b4b?style=flat-square&logo=cplusplus&logoColor=818CF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Core_Concept-DSA_(Data_Structures_%26_Algorithms)-0f172a?style=flat-square&logo=leetcode&logoColor=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Backend-FastAPI_%26_REST_API-1e1b4b?style=flat-square&logo=fastapi&logoColor=818CF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tools-Antigravity_%26_XAMPP-0f172a?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cloud-Render-1e1b4b?style=flat-square&logo=render&logoColor=F59E0B" />
-</p>
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h4>💻 Languages &amp; Core Concepts</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts&theme=dark" height="40" alt="Languages" />
+    </a>
+  </p>
+  <p align="center">
+    <code>Java</code> &bull; <code>Python</code> &bull; <code>C</code> &bull; <code>C++</code> &bull; <code>JavaScript</code> &bull; <code>TypeScript</code><br />
+    <small><b>Foundations:</b> Object-Oriented Programming (OOP) &bull; Data Structures &amp; Algorithms (DSA)</small>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4>🌐 Frontend &amp; Cloud Deployment</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,cloudflare,vercel&theme=dark" height="40" alt="Frontend &amp; Cloud" />
+    </a>
+  </p>
+  <p align="center">
+    <code>React</code> &bull; <code>Tailwind CSS</code> &bull; <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Cloudflare</code> &bull; <code>Vercel</code><br />
+    <small><b>Deployment:</b> Cloudflare Workers &bull; Vercel &bull; Render</small>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4>⚙️ Backend &amp; Databases</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,sqlite&theme=dark" height="40" alt="Backend &amp; Databases" />
+    </a>
+  </p>
+  <p align="center">
+    <code>FastAPI</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MySQL</code> &bull; <code>SQLite</code><br />
+    <small><b>Architecture:</b> RESTful APIs &bull; Asynchronous Workers &bull; BullMQ</small>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h4>🛠️ Tools &amp; Hardware</h4>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,arduino&theme=dark" height="40" alt="Tools &amp; Hardware" />
+    </a>
+  </p>
+  <p align="center">
+    <code>Git</code> &bull; <code>GitHub</code> &bull; <code>Docker</code> &bull; <code>VS Code</code> &bull; <code>Postman</code> &bull; <code>Arduino</code><br />
+    <small><b>Environment:</b> Antigravity IDE &bull; XAMPP &bull; Embedded Systems</small>
+  </p>
+</td>
+</tr>
+</table>
 
 <br />
 
