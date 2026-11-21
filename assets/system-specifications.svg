@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" width="100%">
   <defs>
     <!-- Card Background Gradient -->
     <linearGradient id="spec-bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -39,12 +39,6 @@
       fill: #f8fafc;
       letter-spacing: 0.2px;
     }
-    .val-sub {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
-      font-size: 12.5px;
-      font-weight: 400;
-      fill: #94a3b8;
-    }
     .val-accent {
       font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
       font-size: 12px;
@@ -58,7 +52,7 @@
   </style>
 
   <!-- Container Box -->
-  <rect width="920" height="230" rx="10" fill="url(#spec-bg)" stroke="#1e293b" stroke-width="1.2" />
+  <rect width="920" height="260" rx="10" fill="url(#spec-bg)" stroke="#1e293b" stroke-width="1.2" />
 
   <!-- Top Accent Glowing Line -->
   <line x1="30" y1="1" x2="890" y2="1" stroke="url(#top-line-accent)" stroke-width="2" />
@@ -77,31 +71,36 @@
   <!-- Row 1: Name -->
   <g transform="translate(0, 68)">
     <text x="32" y="0" class="label-blue">NAME :</text>
-    <text x="180" y="0" class="val-white">Shreedhar G <tspan class="val-sub">(Electronics &amp; Communication Engineering Student &amp; Developer)</tspan></text>
+    <text x="180" y="0" class="val-white">Shreedhar G</text>
   </g>
 
-  <!-- Row 2: Coordinates -->
-  <g transform="translate(0, 104)">
+  <!-- Row 2: Course -->
+  <g transform="translate(0, 102)">
+    <text x="32" y="0" class="label-blue">COURSE :</text>
+    <text x="180" y="0" class="val-white">B.E. Electronics &amp; Communication Engineering <tspan class="val-accent">(2023 &#8212; 2027)</tspan></text>
+  </g>
+
+  <!-- Row 3: College -->
+  <g transform="translate(0, 136)">
+    <text x="32" y="0" class="label-blue">COLLEGE :</text>
+    <text x="180" y="0" class="val-white">Prince Shri Venkateshwara Padmavathy Engineering College</text>
+  </g>
+
+  <!-- Row 4: Coordinates -->
+  <g transform="translate(0, 170)">
     <text x="32" y="0" class="label-blue">COORDINATES :</text>
     <text x="180" y="0" class="val-white">Chennai, Tamil Nadu, India</text>
   </g>
 
-  <!-- Row 3: Higher Ed -->
-  <g transform="translate(0, 140)">
-    <text x="32" y="0" class="label-blue">HIGHER ED :</text>
-    <text x="180" y="0" class="val-white">Prince Shri Venkateshwara Padmavathy Engineering College <tspan class="val-accent">(2023 &#8212; 2027)</tspan></text>
-  </g>
-
-  <!-- Row 4: Specialization -->
-  <g transform="translate(0, 176)">
+  <!-- Row 5: Specialization -->
+  <g transform="translate(0, 204)">
     <text x="32" y="0" class="label-blue">SPECIALIZATION :</text>
     <text x="180" y="0" class="val-white">Full-Stack Web Architecture <tspan class="dot-bullet">&#8226;</tspan> FastAPI Microservices <tspan class="dot-bullet">&#8226;</tspan> Embedded IoT Edge</text>
   </g>
 
-  <!-- Row 5: Status -->
-  <g transform="translate(0, 212)">
+  <!-- Row 6: Status -->
+  <g transform="translate(0, 238)">
     <text x="32" y="0" class="label-blue">STATUS :</text>
     <text x="180" y="0" class="val-white">Seeking opportunities to gain industry experience &amp; build a successful career</text>
   </g>
 </svg>
-
