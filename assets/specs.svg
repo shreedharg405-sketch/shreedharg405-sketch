@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="220">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="spec-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c16" />
+      <stop offset="50%" stop-color="#0d111e" />
+      <stop offset="100%" stop-color="#090d18" />
+    </linearGradient>
+
+    <!-- Top Border Line Accent -->
+    <linearGradient id="top-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="20%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .label-blue {
+      font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 12.5px;
+      font-weight: 700;
+      fill: #38bdf8;
+      letter-spacing: 0.8px;
+    }
+    .val-white {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+      font-size: 13.5px;
+      font-weight: 500;
+      fill: #f8fafc;
+      letter-spacing: 0.2px;
+    }
+    .val-muted {
+      fill: #94a3b8;
+      font-size: 13px;
+    }
+    .dot-bullet {
+      fill: #475569;
+    }
+    .header-bar-text {
+      font-family: 'JetBrains Mono', Menlo, Consolas, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #64748b;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect width="920" height="220" rx="12" fill="url(#spec-bg)" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Top Decorative Accent Line -->
+  <line x1="40" y1="1" x2="880" y2="1" stroke="url(#top-accent)" stroke-width="2" />
+
+  <!-- Mini Header Tag -->
+  <text x="32" y="24" class="header-bar-text">
+    // SYSTEM SPECIFICATIONS : SHREEDHAR G
+  </text>
+
+  <!-- Row 1: Name -->
+  <g transform="translate(0, 52)">
+    <text x="32" y="0" class="label-blue">NAME :</text>
+    <text x="180" y="0" class="val-white">Shreedhar G <tspan class="val-muted">(Electronics &amp; Communication Engineering Student &amp; Developer)</tspan></text>
+  </g>
+
+  <!-- Row 2: Coordinates -->
+  <g transform="translate(0, 88)">
+    <text x="32" y="0" class="label-blue">COORDINATES :</text>
+    <text x="180" y="0" class="val-white">Chennai, Tamil Nadu, India</text>
+  </g>
+
+  <!-- Row 3: Higher Ed -->
+  <g transform="translate(0, 124)">
+    <text x="32" y="0" class="label-blue">HIGHER ED :</text>
+    <text x="180" y="0" class="val-white">Prince Shri Venkateshwara Padmavathy Engineering College <tspan fill="#818cf8" font-size="12.5">(2023 — 2027)</tspan></text>
+  </g>
+
+  <!-- Row 4: Specialization -->
+  <g transform="translate(0, 160)">
+    <text x="32" y="0" class="label-blue">SPECIALIZATION :</text>
+    <text x="180" y="0" class="val-white">Full-Stack Web Architecture <tspan class="dot-bullet">&bull;</tspan> FastAPI Microservices <tspan class="dot-bullet">&bull;</tspan> Embedded IoT Edge</text>
+  </g>
+
+  <!-- Row 5: Status -->
+  <g transform="translate(0, 196)">
+    <text x="32" y="0" class="label-blue">STATUS :</text>
+    <text x="180" y="0" class="val-white">Seeking opportunities to gain industry experience &amp; build a successful career</text>
+  </g>
+</svg>

@@ -31,15 +31,9 @@
   <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
-```yaml
-# ─── [ SYSTEM SPECIFICATIONS : SHREEDHAR G ] ──────────────────────────────────────────
-👤 IDENTITY       : Shreedhar G (Electronics & Communication Engineering Student & Developer)
-📍 COORDINATES    : Chennai, Tamil Nadu, India
-🏫 HIGHER ED      : Prince Shri Venkateshwara Padmavathy Engineering College (2023 — 2027)
-⚡ SPECIALIZATION : Full-Stack Web Architecture • FastAPI Microservices • Embedded IoT Edge
-🚀 STATUS         : Seeking opportunities to gain industry experience & build a successful career
-# ──────────────────────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+  <img src="assets/specs.svg" width="100%" alt="System Specifications" />
+</div>
 
 <div align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
