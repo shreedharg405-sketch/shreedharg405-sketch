@@ -3,10 +3,6 @@
 <!-- Theme: Minimalist Midnight Aurora & Royal Indigo             -->
 <!-- ============================================================== -->
 
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Shreedhar G Header" />
-</div>
-
 <!-- Quick Navigation Pill Badges -->
 <p align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
