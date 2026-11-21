@@ -80,7 +80,7 @@
   <!-- Row 4: Specialization -->
   <g transform="translate(0, 160)">
     <text x="32" y="0" class="label-blue">SPECIALIZATION :</text>
-    <text x="180" y="0" class="val-white">Full-Stack Web Architecture <tspan class="dot-bullet">&bull;</tspan> FastAPI Microservices <tspan class="dot-bullet">&bull;</tspan> Embedded IoT Edge</text>
+    <text x="180" y="0" class="val-white">Full-Stack Web Architecture <tspan class="dot-bullet">&#8226;</tspan> FastAPI Microservices <tspan class="dot-bullet">&#8226;</tspan> Embedded IoT Edge</text>
   </g>
 
   <!-- Row 5: Status -->
@@ -89,3 +89,4 @@
     <text x="180" y="0" class="val-white">Seeking opportunities to gain industry experience &amp; build a successful career</text>
   </g>
 </svg>
+
