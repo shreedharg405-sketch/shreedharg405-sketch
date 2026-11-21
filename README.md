@@ -31,9 +31,28 @@
   <img src="https://komarev.com/ghpvc/?username=shreedharg405-sketch&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="assets/specs.svg" width="100%" alt="System Specifications" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="22%"><b><a href="#">NAME :</a></b></td>
+    <td><b>Shreedhar G</b> <i>(Electronics &amp; Communication Engineering Student &amp; Developer)</i></td>
+  </tr>
+  <tr>
+    <td><b><a href="#">COORDINATES :</a></b></td>
+    <td>Chennai, Tamil Nadu, India</td>
+  </tr>
+  <tr>
+    <td><b><a href="#">HIGHER ED :</a></b></td>
+    <td>Prince Shri Venkateshwara Padmavathy Engineering College <i>(2023 — 2027)</i></td>
+  </tr>
+  <tr>
+    <td><b><a href="#">SPECIALIZATION :</a></b></td>
+    <td>Full-Stack Web Architecture &bull; FastAPI Microservices &bull; Embedded IoT Edge</td>
+  </tr>
+  <tr>
+    <td><b><a href="#">STATUS :</a></b></td>
+    <td>Seeking opportunities to gain industry experience &amp; build a successful career</td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://portfolio-2ov.pages.dev/" target="_blank">
