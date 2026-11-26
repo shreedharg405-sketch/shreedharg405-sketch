@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-4F46E5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=07090e" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/Shreedhar_G_Resume.pdf" target="_blank">
+  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/SHREEDHAR_G_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF_Document-0284C7?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=07090e" alt="Resume" />
   </a>
   &nbsp;
@@ -314,11 +314,11 @@
   <sub><b>portfolio-2ov.pages.dev</b></sub>
 </td>
 <td align="center" width="200" style="padding: 12px;">
-  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/Shreedhar_G_Resume.pdf" target="_blank">
+  <a href="https://github.com/shreedharg405-sketch/Resume/blob/main/SHREEDHAR_G_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_PDF-0284C7?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <br />
-  <sub><b>Shreedhar_G_Resume.pdf</b></sub>
+  <sub><b>SHREEDHAR_G_Resume.pdf</b></sub>
 </td>
 <td align="center" width="200" style="padding: 12px;">
   <a href="mailto:shreedharg405@gmail.com">
